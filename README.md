@@ -1,4 +1,5 @@
-🌟 CAN in MindSpore - Competition Project 🏆
+# 🌟 CAN in MindSpore - Competition Project 🏆
+
 CAN (Context Aware Network) is a research work presented at ECCV 2022. It has shown remarkable performance in handwritten mathematical formula recognition. The project aims to reproduce CAN (https://arxiv.org/abs/2207.11463) in MindSpore. Here are the details and implementation plan for the project. 💡
 
 ## Steps 🚀
